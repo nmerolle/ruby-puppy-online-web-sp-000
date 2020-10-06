@@ -14,6 +14,7 @@ class Dog
   end
   
   def print_all
+    @@all.each
 
 end
 
