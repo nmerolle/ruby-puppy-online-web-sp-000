@@ -18,6 +18,10 @@ class Dog
       puts x.name
     end
   end
+  
+  def save(name)
+    
+    
 
 end
 
